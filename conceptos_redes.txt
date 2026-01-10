@@ -1,0 +1,7 @@
+IP publica: Haciendo la analogia es como si fuera la direccion de un hogar donde un ruter es instalado el cual le dara red a los dispositivios que se encuentre.
+
+IP Privada: Siguiendo con la anlogia la ip privada serian como las habitaciones de este lugar donde se entregaran direcciones privadas a cada dispositivo.
+
+NAT: Es un proceso que permite que multiples IPs privadas compartan una sola direccion publica y se puedan conectar a internet.
+
+
